@@ -1434,3 +1434,7 @@ fiddy.dime - priv/acc @ MYBW 20-24 July
 === 2025-08-06 08:26:16 ===
 @jparkerholder
 @RuiqiGao
+
+=== 2025-08-07 01:21:58 ===
+@Guodzh
+@gwern
