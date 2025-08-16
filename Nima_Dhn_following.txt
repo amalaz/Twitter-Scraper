@@ -299,3 +299,7 @@ Jiayi Zhang @ICLR2025
 
 === 2025-08-15 06:26:44 ===
 @crypto_linn
+
+=== 2025-08-16 06:24:08 ===
+@0x0simba_eth
+@FarzaTV
